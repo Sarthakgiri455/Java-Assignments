@@ -22,11 +22,6 @@ account balance whenever either transaction is performed. CheckingAccount’s de
 should charge a fee only if the money is actually withdrawn (debit amount should not exceed the 
 account balance).
 */
-
-
-
-
-
 import java.util.*;
 import java.lang.Math;
 import java.text.DecimalFormat;
