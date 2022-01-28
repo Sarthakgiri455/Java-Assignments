@@ -20,17 +20,7 @@ constructor should receive the initial balance, as well as parameter indicating 
 CheckingAccount should redefine credit and debit function so that they subtract the fee from 
 account balance whenever either transaction is performed. CheckingAccount’s debit function 
 should charge a fee only if the money is actually withdrawn (debit amount should not exceed the 
-account balance).After defining the class hierarchy, write program that creates object of each 
-class and tests their member functions. Add interest to SavingAccount object by first invoking its 
-calculateInterest function, then passing the returned interest amount to object’s credit function.
-
-
-
-
-
-
-
-
+account balance).
 */
 
 
